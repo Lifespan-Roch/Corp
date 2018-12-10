@@ -240,6 +240,7 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/SmartShape_58.png": "img5.json",
 "dr/SmartShape_59.png": "img5.json",
 "dr/SmartShape_60.png": "img5.json",
+"dr/SmartShape_9.png": "img5.json",
 "dr/SmartShape_Data.png": "img5.json",
 "dr/SmartShape_FROM.png": "img5.json",
 "dr/SmartShape_Prevent.png": "img5.json",
